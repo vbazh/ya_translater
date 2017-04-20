@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Я.Переводчик</string>
+    <string name="yandex_translate_api_link">https://translate.yandex.net/api/v1.5/tr.json/translate</string>
+    <string name="yandex_get_langs_api_link">https://translate.yandex.net/api/v1.5/tr.json/getLangs</string>
+    <string name="API_KEY">trnsl.1.1.20170403T094720Z.8e78fe6e2bd0dd54.0820d776c99b9378c1577057e2354f8dbd012448</string>
+    <string name="format_translate_plain">plain</string>
+    <string name="options_translate">1</string>
+    <string name="text_translate">перевод</string>
+    <string name="text_favorites">избранное</string>
+    <string name="text_settings">настройки</string>
+    <string name="text_history">история</string>
+    <string name="text_ok">ОК</string>
+    <string name="text_cancel">ОТМЕНА</string>
+    <string name="text_delete">УДАЛЕНИЕ</string>
+    <string name="text_clear_history">Очистить историю?</string>
+    <string name="text_clear_favorites">Очистить избранное?</string>
+    <string name="text_delete_translate">Удалить перевод</string>
+    <string name="enter_text">Введите текст для перевода</string>
+    <string name="text_retry">ПОВТОРИТЬ</string>
+    <string name="text_internet_isnt_available">Интернет недоступен</string>
+    <string name="text_no_translations_history">Нет переводов в истории</string>
+    <string name="text_no_translations_favorites">Нет переводов в избранном</string>
+
+</resources>
